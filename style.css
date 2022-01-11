@@ -1,0 +1,18 @@
+.bg-orange{
+    background-color: orangered;
+    color: white;
+}
+.btn-contact{
+    background-color: orangered;
+    
+}
+.navbar{
+    height: 7vh;
+}
+.container-fluid{
+   height: 93vh;
+}
+
+.container-form {
+    width: 400px;
+}
